@@ -1,0 +1,7 @@
+.reg_modele_dib{
+	position: relative;
+	display: block;
+	padding: 20px;
+	border: 2px solid red;
+	background: none;
+}

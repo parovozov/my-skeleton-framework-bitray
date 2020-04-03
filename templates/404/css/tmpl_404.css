@@ -1,0 +1,24 @@
+div
+{
+	position: fixed;
+	top:50%;
+	left:50%;
+	transform: translate(-50%, -50%);
+	width: 400px;
+	height: 460px;
+	background-color: #ccc;
+	background: url(../images/katfinde.jpg) no-repeat 0px 0px;
+	border: 1px solid #eee;
+}
+span
+{
+	display: block;
+	position: relative;
+	width: 400px;
+	height: 30px;
+	line-height: 30px;
+	vertical-align: middle;
+	top: 410px;
+	text-align: center;
+	font-size: 18px;
+}
